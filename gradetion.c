@@ -47,7 +47,7 @@ int main() {
     
     else
     {
-        printf("Your Grade is F\n");
+        printf("Your Grade is Fail\n");
     }
 
     return 0;
